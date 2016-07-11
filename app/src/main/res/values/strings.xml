@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirstAndroid</string>
+    <string name="txn_welcome">你好！</string>
+    <string name="btn_msg">按下了一个按钮</string>
 </resources>
